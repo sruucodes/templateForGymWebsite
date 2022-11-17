@@ -1,0 +1,1142 @@
+.sign-up-page-container {
+  min-height: 100vh;
+}
+.sign-up-page-sign-up-page {
+  width: 100%;
+  height: 1523px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.bgcolor{
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1080px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 0.75);
+}
+.sign-up-page-b-gimage1 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  border-color: transparent;
+}
+.sign-up-page-header {
+  top: 0px;
+  left: 150px;
+  width: 1642.584228515625px;
+  height: 220.60391235351562px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.sign-up-page-frame3 {
+  top: 65.6318359375px;
+  left: 651px;
+  width: 991.584228515625px;
+  height: 86.94022369384766px;
+  display: flex;
+  padding: 10px 20px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.sign-up-page-frame2 {
+  display: flex;
+  padding: 10px 0;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.sign-up-page-frame1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.sign-up-page-text {
+  color: rgba(255, 255, 255, 1);
+  width: 142px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: -30px;
+  margin-bottom: 0;
+  text-decoration: none;
+  cursor: pointer;
+}
+.sign-up-page-text02 {
+  color: rgba(255, 255, 255, 1);
+  width: 195px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: -30px;
+  margin-bottom: 0;
+  text-decoration: none;
+  cursor: pointer;
+}
+.sign-up-page-text04 {
+  color: rgba(255, 255, 255, 1);
+  width: 322px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: -30px;
+  margin-bottom: 0;
+  text-decoration: none;
+  cursor: pointer;
+}
+.sign-up-page-text06 {
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+  cursor: pointer;
+}
+.sign-up-page-b-u-t-t-o-n {
+  width: 199px;
+  height: 48px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 3rem;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(91, 82, 82, 0.8600000143051147);
+  cursor: pointer;
+}
+.sign-up-page-text08 {
+  top: 12.455078125px;
+  left: 60.41576385498047px;
+  color: rgba(255, 255, 255, 1);
+  width: 91px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.sign-up-page-logo {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 221px;
+  position: absolute;
+  border-color: transparent;
+  cursor: pointer;
+}
+.sign-up-page-tandc {
+  top: 1080px;
+  left: 0px;
+  width: 1923px;
+  height: 445px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  background-image: linear-gradient(180deg, rgb(31, 30, 30) 0%, rgb(42, 42, 42) 18%, rgba(38, 36, 36, 1) 42%);
+}
+.sign-up-page-frame5 {
+  top: 51px;
+  left: 71px;
+  width: 613.9578247070312px;
+  height: 164.41372680664062px;
+  display: flex;
+  padding: 0 0 71px 0;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.sign-up-page-text10 {
+  color: rgba(229, 115, 115, 1);
+  width: 613px;
+  height: auto;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.sign-up-page-text11 {
+  color: rgba(229, 115, 115, 1);
+}
+.phNO{
+  color:white;
+}
+.sign-up-page-text13 {
+  color: rgba(229, 115, 115, 1);
+  width: 611px;
+  height: auto;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-page-text14 {
+  color: rgba(229, 115, 115, 1);
+}
+.sign-up-page-text15 {
+  font-weight: 700;
+}
+.address{
+  color:white;
+}
+.sign-up-page-signupbuttons {
+  top: 76.79264831542969px;
+  left: 1067.66552734375px;
+  width: 703.0968627929688px;
+  height: 56.11726379394531px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius:2rem;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(38, 36, 36, 1);
+}
+.sign-up-page-rectangle10 {
+  top: 0px;
+  left: 0px;
+  width: 703px;
+  height: 56px;                         /*subscribe */
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.sign-up-page-rectangle11 {
+  top: 0px;
+  left: 385.6015625px;              /*Subscribe button*/
+  width: 317px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 13px;
+  cursor: pointer;
+}
+.sign-up-page-text17 {
+  top: 8.707133293151855px;
+  left: 428.27685546875px;
+  color: rgba(247, 78, 78, 1);    /*SUbscribe text*/
+  width: 247px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  cursor: pointer;
+}
+.sign-up-page-text19 {
+  top: 15.1658296585083px;
+  left: 9.45849609375px;
+  color: rgba(255, 255, 255, 1);
+  width: 330px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-page-text21 {
+  top: 334.73406982421875px;
+  left: 81.12646484375px;
+  color: rgba(255, 255, 255, 1);  /*All Rights Reserved*/
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 21px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  cursor: pointer;
+}
+#astrisk{
+  color:#F55353;
+}
+.sign-up-page-text23 {
+  top: 334.73406982421875px;
+  left: 1143.7841796875px;
+  color: rgba(255, 255, 255, 1);    /*terms and conditions*/
+  width: 395px;
+  height: auto;
+  position: absolute;
+  font-size: 21px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  cursor:pointer;
+}
+.sign-up-page-social-m-edia {
+  top: 222px;
+  left: 27px;
+  width: 656px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.sign-up-page-imagefrominternet21 {
+  width: 341px;
+  height: 216px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 32px;
+  cursor: pointer;
+}
+.sign-up-page-logoigpng324641 {
+  width: 45px;
+  height: 46px;
+  position: relative;
+  border-color: transparent;      /*Insta Logo*/
+  margin-right: 32px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.sign-up-page-logogmail99511 {
+  width: 75px;
+  height: 73px;
+  position: relative;
+  border-color: transparent;      /*Mail Logo*/
+  margin-right: 32px;
+  cursor: pointer;
+}
+.sign-up-page-logofacebookpng322021 {
+  width: 58px;
+  height: 60px;
+  position: relative;
+  border-color: transparent;      /*FB Logo*/
+  cursor: pointer;
+}
+.sign-up-page-maincontent {
+  top: 197px;
+  left: 115px;
+  width: 1633px;
+  height: 899px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.sign-up-page-component1 {
+  top: 76px;
+  left: 455px;
+  width: 798px;
+  height: 764px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.sign-up-page-rectangle13 {
+  top: -16px;
+  left: -8px;
+  width: 798px;
+  height: 780px;
+  position: absolute;
+  border-color: transparent;
+}
+.sign-up-page-nameage {
+  top: 14px;
+  left: 45.92071533203125px;
+  width: 706px;
+  height: 85px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.sign-up-page-rectangle14 {
+  top: 47px;
+  left: 0px;
+  width: 362px;
+  height: 38px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+  cursor:pointer;
+}
+.sign-up-page-rectangle15 {
+  top: 47px;
+  left: 556.15087890625px;
+  width: 150px;
+  height: 38px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+  cursor:pointer;
+}
+.sign-up-page-rectangle16 {
+  top: 47px;
+  left: 556.15087890625px;
+  width: 150px;
+  height: 38px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+  cursor:pointer;
+}
+.sign-up-page-text25 {
+  color: rgba(0, 0, 0, 1);
+  width: 362px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: IBM Plex Sans Hebrew;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-page-text26 {
+  color: rgba(0, 0, 0, 1);
+}
+.sign-up-page-text27 {
+  left: 567.3759765625px;
+  color: rgba(0, 0, 0, 1);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: IBM Plex Sans Hebrew;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-page-text28 {
+  color: rgba(0, 0, 0, 1);
+}
+.sign-up-page-gender {
+  top: 313px;
+  left: 45.92071533203125px;
+  width: 706px;
+  height: 69px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.sign-up-page-text29 {
+  top: 14.897727012634277px;
+  left: -44.33767318725586px;
+  color: rgba(0, 0, 0, 1);
+  width: 384px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: IBM Plex Sans Hebrew;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-page-ellipse1 {
+  top: 29.795454025268555px;
+  left: 415.2601623535156px;
+  width: 54px;
+  height: 39px;
+  position: absolute;
+  border-color: transparent;
+  cursor: pointer;
+}
+.sign-up-page-ellipse2 {
+  top: 29.795454025268555px;
+  left: 641.274169921875px;
+  width: 54px;
+  height: 39px;
+  position: absolute;
+  border-color: transparent;
+  cursor: pointer;
+}
+.sign-up-page-text31 {
+  left: 378.4923400878906px;
+  color: rgba(0, 0, 0, 1);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: IBM Plex Sans Hebrew;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-page-text32 {
+  left: 630.4600830078125px;
+  color: rgba(0, 0, 0, 1);
+  width: 76px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: IBM Plex Sans Hebrew;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-page-contactdetails {
+  top: 127px;
+  left: 45.92071533203125px;
+  width: 706px;
+  height: 82px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.sign-up-page-group2 {
+  top: 44px;
+  left: 389.9095153808594px;
+  width: 316.2490539550781px;
+  height: 38px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 2rem;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(217, 217, 217, 1);
+  cursor:pointer;
+}
+.sign-up-page-rectangle161 {
+  top: 44px;
+  left: 0px;
+  width: 349px;
+  height: 38px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 2rem;
+  cursor: pointer;
+}
+.sign-up-page-text33 {
+  left: 24.553497314453125px;
+  color: rgba(0, 0, 0, 1);
+  width: 284px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: IBM Plex Sans Hebrew;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-page-text34 {
+  color: rgba(0, 0, 0, 1);
+}
+.sign-up-page-text35 {
+  left: 418.3915710449219px;
+  color: rgba(0, 0, 0, 1);
+  width: 260px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: IBM Plex Sans Hebrew;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-page-text36 {
+  color: rgb(0, 0, 0);
+}
+.sign-up-page-rectangle162 {
+  top: 245px;
+  left: 340px;
+  width: 319px;
+  height: 38px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 2rem;
+}
+.sign-up-page-hw {
+  top: 420px;
+  left: 61.227622985839844px;
+  width: 694px;
+  height: 93px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.sign-up-page-rectangle17 {
+  top: 51.42353057861328px;    /*BMI*/
+  left: 515.1626586914062px;
+  width: 148px;
+  height: 42px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+  cursor: pointer;
+}
+.sign-up-page-rectangle163 {
+  top: 51.42353057861328px;
+  left: 63.265586853027344px;   /*Height*/
+  width: 148px;
+  height: 42px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+  cursor: pointer;
+}
+.sign-up-page-rectangle18 {
+  top: 51.42353057861328px;
+  left: 283.1888122558594px;   /*Weight*/
+  width: 148px;
+  height: 42px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+  cursor: pointer;
+}
+.sign-up-page-text37 {
+  color: rgba(0, 0, 0, 1);
+  width: 283px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: IBM Plex Sans Hebrew;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-page-text38 {
+  color: rgba(0, 0, 0, 1);
+}
+.sign-up-page-text39 {
+  top: 3.282352924346924px;
+  left: 472.9855651855469px;
+  color: rgba(0, 0, 0, 1);
+  width: 232px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: IBM Plex Sans Hebrew;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-page-pullmenubutton {
+  top: 62px;
+  left: 178.75038146972656px;  /*pulldown triangle*/
+  width: 20px;
+  height: 22px;
+  position: absolute;
+  cursor: pointer;
+}
+.sign-up-page-pullmenubutton1 {
+  top: 62px;
+  left: 398.6736145019531px;   /*pulldown triangle*/
+  width: 20px;
+  height: 22px;
+  position: absolute;
+  cursor: pointer;
+}
+.sign-up-page-pullmenubutton2 {
+  top: 62px;
+  left: 630.6474609375px;   /*pulldown triangle*/
+  width: 20px;   
+  height: 22px;
+  position: absolute;
+  cursor: pointer;
+}
+.sign-up-page-text41 {
+  top: 3.282352924346924px;
+  left: 283.1888122558594px;
+  color: rgba(0, 0, 0, 1);
+  width: 159px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: IBM Plex Sans Hebrew;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-page-text42 {
+  color: rgba(0, 0, 0, 1);
+}
+.sign-up-page-submitbutton {
+  top: 663px;
+  left: 185.72378540039062px;
+  width: 428px;
+  height: 93px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.sign-up-page-rectangle19 {
+  top: 31.58490562438965px;
+  left: 69.82733917236328px;
+  width: 300px;
+  height: 35px;
+  position: absolute;
+  border-color: transparent;
+  cursor: pointer;
+}
+.sign-up-page-d-u-m-b-e-l-l {
+  position: absolute;
+  top: 95px;
+  left:425px;                          /*Dumbell submit button right*/
+  width: 70px;
+  height: 93px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  cursor: pointer;
+  transform: rotate(180deg); 
+  transform-origin: left top;
+  
+}
+.sign-up-page-ellipse5 {
+  top: 0px;
+  left: 27.73960304260254px;
+  width: 42px;
+  height: 93px;
+  position: absolute;
+  border-color: transparent;
+}
+.sign-up-page-ellipse4 {
+  top: 12.283019065856934px;
+  left: 11.692018508911133px;
+  width: 32px;
+  height: 69px;
+  position: absolute;
+  border-color: transparent;
+}
+.sign-up-page-ellipse3 {
+  top: 20.179244995117188px;
+  left: 0px;
+  width: 23px;
+  height: 54px;
+  position: absolute;
+  border-color: transparent;
+}
+.sign-up-page-d-u-m-b-e-l-l1 {
+  top: 0px;
+  left: 13.391544342041016px;  /*Dumbell submit button left*/
+  width: 70px;
+  height: 93px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  cursor: pointer;
+}
+.sign-up-page-ellipse51 {
+  top: 0px;
+  left: 27.73960304260254px;
+  width: 42px;
+  height: 93px;
+  position: absolute;
+  border-color: transparent;
+}
+.sign-up-page-ellipse41 {
+  top: 12.283019065856934px;
+  left: 11.692018508911133px;
+  width: 32px;
+  height: 69px;
+  position: absolute;
+  border-color: transparent;
+}
+.sign-up-page-ellipse31 {
+  top: 20.179244995117188px;
+  left: 0px;
+  width: 23px;
+  height: 54px;
+  position: absolute;
+  border-color: transparent;
+}
+.sign-up-page-text43 {
+  top: 31.58490562438965px;
+  left: 108.08889770507812px;
+  color: rgba(255, 255, 255, 1);
+  width: 225px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: IBM Plex Sans Hebrew;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+  cursor: pointer;
+}
+.sign-up-page-text45 {
+  top: 246px;
+  left: 110.209716796875px;
+  color: rgba(0, 0, 0, 1);
+  width: 248px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: IBM Plex Sans Hebrew;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-page-text46 {
+  color: rgba(0, 0, 0, 1);
+}
+.sign-up-page-text47 {
+  top: 620px;
+  left: 680px;
+  color: rgba(0, 0, 0, 1);
+  width: 368px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: IBM Plex Sans Hebrew;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.sign-up-page-subscription {
+  top: 592px;
+  left: 468px;
+  width: 742px;
+  height: 119px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.sign-up-page-rectangle164 {
+  top: 74px;
+  left: 16.108549118041992px;          /*Subscription button left*/
+  width: 231px;
+  height: 45px;
+  position: absolute;               
+  border-color: transparent;
+  border-radius: 30px;
+  cursor: pointer;
+}
+.sign-up-page-rectangle181 {
+  top: 74px;
+  left: 511.4464111328125px;          /*Subscription button right*/
+  width: 231px;
+  height: 45px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+  cursor: pointer;
+}
+.sign-up-page-rectangle171 {
+  top: 74px;
+  left: 263.7774658203125px;          /*Subscription button middle*/
+  width: 231px;
+  height: 45px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+  cursor: pointer;
+}
+.sign-up-page-text49 {
+  top: 74px;
+  left: 34.23066329956055px;
+  color: rgba(255, 255, 255, 1);   /*Beginner button*/
+  width: 193px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: IBM Plex Sans Hebrew;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+  cursor: pointer;
+}
+.sign-up-page-text51 {
+  top: 74px;
+  left: 271.8317565917969px;
+  color: rgba(255, 255, 255, 1);  /*Intermediate button*/
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: IBM Plex Sans Hebrew;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+  cursor:pointer;
+}
+.sign-up-page-text53 {
+  top: 74px;
+  left: 600px;
+  color: rgba(255, 255, 255, 1);   /*Pro button*/
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: IBM Plex Sans Hebrew;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+  cursor: pointer;
+}
+.inspiration{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 90.32%;
+
+  font-family: 'IBM Plex Sans Hebrew';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 52px;
+  text-align: center;
+
+  background: linear-gradient(180deg, #F90B0B 0%, rgba(255, 206, 206, 0.995052) 41.15%, rgba(255, 9, 9, 0.99) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  /*text-fill-color: transparent;*/
+}
